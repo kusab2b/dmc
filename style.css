@@ -1,0 +1,153 @@
+*{
+    box-sizing: border-box;
+}
+.main{
+    background-color: #ffffff;
+    width: 808px;
+    height: 832px;
+    margin-left: 472px;
+    margin-top: 150px;
+    position: absolute;
+    
+}
+
+@media screen and (max-width 100%){
+    div{
+        width: 360px;
+        height: 512px;
+      padding: 24px;
+      gap: 12px;
+      
+    }
+}
+    img{
+    width: 469px;
+    height: 832px;
+     margin-left: 3px;
+      margin-top: 150px;
+
+    position: absolute;
+   }
+   @font-face {
+    font-family: normal;
+    src: url(OpenSans-VariableFont_wdth\,wght.ttf);
+   }
+   
+.ngen{
+    width: 340px;
+    height: 372px;
+    border: 1px solid;
+    margin-left: 180px;
+    margin-top: 250px;
+    position: absolute;
+    border: none;
+}
+h3{
+    margin-top: 2px;
+    color: #1f2937;
+    position: absolute;
+    font-family: normal;
+}
+a{
+    margin-top: 30px;
+    color: #6b7280;
+    position: relative;
+    font-family: normal;
+}
+.submm{
+    width: 281px;
+    height: 48px;
+    margin-top: 1px;
+    background-color: #4285f4;
+    color: #ffffff;
+    border-radius: 4px;
+    border: none;
+    font-family: normal;
+    position: absolute;
+}
+.img1{
+    width: 43px;
+    height: 43px;
+    margin-top: 2px;
+    margin-left: 1px;
+    border-radius: 2px 0px 0px 2px;
+    position: absolute;
+}
+.img2{
+    width: 43px;
+    height: 48px;
+    margin-left: 295px;
+    margin-top: 1px;
+    border-radius: 2px 0px 0px 2px;
+    background-color: #ecf2fc;
+}
+hr{
+    border: 1px solid;
+    color: #e5e7eb;
+    margin-top: 70px;
+}
+.eml{
+    width: 340px;
+    height: 48px;
+    border: 1px solid;
+    border-radius: 4px;
+    margin-top: 15px;
+padding-left: 40px;
+color: #d1d5db;
+}
+.img3{
+    width: 24px;
+    height: 24px;
+    margin-top: -35px;
+    padding-left: 8px;
+    position: absolute;
+}
+.isolated{
+    color: hsl(220, 9%, 46%);
+    margin-left: 10px;
+    font-family: normal;
+    margin-top: 15px;
+    position: absolute;
+}
+a{
+    margin-left: 147px;
+    margin-top: px;
+    position: relative;
+    text-decoration: none;
+}
+
+button{
+    width: 340px;
+    height: 48px;
+    margin-right: 50px;
+    margin-top: 60px;
+    border-radius: 6px;
+    background-color: #724dff;
+    border: none;
+    color: #ffffff;
+    font-family: normal;
+    position: relative;
+    
+}
+.email{
+    margin-top: 15px;
+    margin-left: 5px;
+font-family: normal;
+    font-size: 14px;
+}
+.pixel{
+    margin-top: -33px;
+    color: #6d5aba;
+    font-family: normal;
+    font-size: 14px;
+    margin-left: 165px;
+position: absolute;
+}
+.loog{
+    margin-top: 30px;
+}
+.contr{
+    margin-top: 15px;
+    color: #6d5aba;
+    position: absolute;
+}
